@@ -14,6 +14,7 @@ public class ThreadOne extends Thread {
 			
 		}
 		System.out.println("Thread One ended...");
+		System.out.println("Thread ended");
 	}
 
 }
